@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Koi Invoicing PLatform**
  
- 🌱 I’m currently learning **GraphQL, AWS**
+ 🌱 I’m currently learning **GraphQL, Three.js, Next.js**
 
 💬 Ask me about **Node.js, React, Express.js, MongoDB**
 
